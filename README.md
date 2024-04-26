@@ -27,17 +27,14 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost imbalanced-lear
 ```
 
 ## Usage
-
-    Clone the repository to your local machine.
-    Ensure you have the necessary dataset (if any) in the appropriate format.
-    Run the Python script containing the ML model training and prediction logic.
-    Evaluate the model performance using appropriate metrics.
-    Make predictions on new data if required.
+Clone the repository to your local machine.
+Ensure you have the necessary dataset (if any) in the appropriate format.
+Run the Python script containing the ML model training and prediction logic.
+Evaluate the model performance using appropriate metrics.
+Make predictions on new data if required.
 
 ## Contributors
-
-    Rajendra Reang
+Rajendra Reang
 
 ## License
-
 MIT License
