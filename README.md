@@ -23,9 +23,10 @@ This project aims to predict hail storms using machine learning techniques. It u
 To run the project, make sure you have Python installed on your system along with the necessary libraries listed above. You can install the required libraries using pip:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost imbalanced-learn
+pip install numpy pandas matplotlib seaborn scikit-learn xgboost imbalanced-learn 
+```
 
-Usage
+## Usage
 
     Clone the repository to your local machine.
     Ensure you have the necessary dataset (if any) in the appropriate format.
@@ -33,10 +34,10 @@ Usage
     Evaluate the model performance using appropriate metrics.
     Make predictions on new data if required.
 
-Contributors
+## Contributors
 
     Rajendra Reang
 
-License
+## License
 
 MIT License
